@@ -16,7 +16,7 @@
   🚀 Passionate about IoT, robotics, and embedded systems.<br>
   💡 I love combining hardware and software in real projects.<br>
  🧠 Always learning new tech & improving coding skills.<br>
--📫 How to reach me: [Linkedin](www.linkedin.com/in/sayfeddine-mihoub-800508225) [Gmail](https://www.sayfeddinemihoub@gmail.com)
+-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sayfeddine-mihoub-800508225) [Gmail](https://www.sayfeddinemihoub@gmail.com)
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c) 
